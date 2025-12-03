@@ -163,4 +163,4 @@ A ideia é evoluir esse repositório para que se torne uma referência de estudo
 **Renan Oliveira Andrade**  
 Analista de Inteligência de Negócios | Engenharia de Dados  
 GitHub: https://github.com/axlrn  
-Instagram: @tecno-log_IA • @resumodod_IA  
+Linktree: https://linktr.ee/axlrn
